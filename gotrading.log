@@ -1,0 +1,4 @@
+2020/09/23 18:45:11 main.go:12: test
+2020/09/23 23:22:07 bitflyer.go:56: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2020/09/23 23:22:07 bitflyer.go:32: 1600870927
+2020/09/23 23:22:07 bitflyer.go:90: url=me/getbalance resp=[{"currency_code":"JPY","amount":1998.0,"available":1998.000000000000},{"currency_code":"BTC","amount":0.00002732,"available":0.000027320000},{"currency_code":"BCH","amount":0.00007226,"available":0.000072260000},{"currency_code":"ETH","amount":0.00586,"available":0.005860000000},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0}]
