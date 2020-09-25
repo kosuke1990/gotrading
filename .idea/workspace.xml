@@ -26,6 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
@@ -63,30 +64,35 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="465" y="259" key="#com.intellij.fileTypes.FileTypeChooser/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600851787398" />
-    <state x="151" y="132" width="1240" height="707" key="DiffContextDialog" timestamp="1600952245057">
+    <state x="151" y="132" width="1240" height="707" key="DiffContextDialog" timestamp="1600961732611">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="151" y="132" width="1240" height="707" key="DiffContextDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600951912507" />
+    <state x="151" y="132" width="1240" height="707" key="DiffContextDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600961732611" />
     <state x="151" y="132" width="1240" height="707" key="DiffContextDialog/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1600952245057" />
-    <state width="495" height="802" key="GridCell.Tab.0.bottom" timestamp="1600951978625">
+    <state width="495" height="802" key="GridCell.Tab.0.bottom" timestamp="1600961490901">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="495" height="802" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600951978625" />
-    <state width="495" height="802" key="GridCell.Tab.0.center" timestamp="1600951978622">
+    <state width="495" height="802" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600961490901" />
+    <state width="495" height="802" key="GridCell.Tab.0.center" timestamp="1600961490899">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="495" height="802" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600951978622" />
-    <state width="495" height="802" key="GridCell.Tab.0.left" timestamp="1600951978620">
+    <state width="495" height="802" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600961490899" />
+    <state width="495" height="802" key="GridCell.Tab.0.left" timestamp="1600961490898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="495" height="802" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600951978620" />
-    <state width="495" height="802" key="GridCell.Tab.0.right" timestamp="1600951978623">
+    <state width="495" height="802" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600961490898" />
+    <state width="495" height="802" key="GridCell.Tab.0.right" timestamp="1600961490900">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="495" height="802" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600951978623" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600870027800">
+    <state width="495" height="802" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600961490900" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1600957749658">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600870027800" />
+    <state x="229" y="89" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600957749658" />
+    <state x="229" y="89" key="SettingsEditor/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1600956849259" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600957541373">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600957541373" />
   </component>
 </project>
