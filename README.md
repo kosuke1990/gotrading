@@ -1,0 +1,5 @@
+# bitflyerからticker情報を取得し、そのデータを元にトレード戦略を構築し、自動でトレードします
+api_key api_secretはconfig.iniにbitflyerから取得したapikeyの情報を記載する
+ちゃんと動くが、現在も微調整中
+動いた時のイメージは下記の通り
+https://gyazo.com/bc111423bee286511b85c51acd27cd88
